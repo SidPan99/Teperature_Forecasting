@@ -20,7 +20,6 @@ This project analyzes global weather trends using machine learning and time-seri
 │── 📄 presentation.pptx (Slides for Presentation)
 │── 📁 data (Contains dataset files)
 │── 📁 images (Visualizations & Graphs)
-│── 📁 models (Saved ML Models)
 ```
 
 ## 📊 **Data Processing & Analysis**

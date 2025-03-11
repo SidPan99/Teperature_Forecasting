@@ -54,8 +54,8 @@ This project analyzes global weather trends using machine learning and time-seri
 ## 🚀 **How to Run the Project**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-trend-forecasting.git
-   cd weather-trend-forecasting
+   git clone https://github.com/SidPan99/Temperature_Forecasting.git
+   cd Temperature_Forecasting
    ```
 2. Install dependencies:
    ```bash
@@ -72,9 +72,7 @@ This project analyzes global weather trends using machine learning and time-seri
 ✅ **GitHub Repository:** Code, models, and project files.  
 
 ## 🔗 **Submission Details**
-- **GitHub Repository:** [Insert Link Here]
-- **Project Folder:** [Insert Drive Link]
-- **Submission Deadline:** [Insert Date Here]
+- **Project Folder:** https://drive.google.com/drive/folders/1DUY47PFwcw7G-z9Zskygv9HHjktuEKAD?usp=sharing
 
 ## 💡 **Future Improvements**
 - Add **Deep Learning Models (LSTMs, Transformer-based models)**.

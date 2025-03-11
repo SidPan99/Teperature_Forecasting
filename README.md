@@ -63,7 +63,7 @@ This project analyzes global weather trends using machine learning and time-seri
    ```
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook Weather_Forecasting.ipynb
+   jupyter notebook Temperature_Forecasting.ipynb
    ```
 
 ## 📜 **Deliverables**
